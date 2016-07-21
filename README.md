@@ -5,10 +5,15 @@
 
 ## Database
 - mongodb [Site](http://link.here), (documentation)[link], npm `npm install mongodb`
-	> **Description:** This is description
+> **Description:** This is description
 
 ## Content Management
-- feed-read [site](link), (documentation)[link], npm `npm install `
-	> **Description:** This is description
-- toolsname [site](link), (documentation)[link], npm `npm install `
-	> **Description:** This is description
+- feed-read [Site](http://link.here), (documentation)[http://link.here], npm `npm install `
+> **Description:** This is description
+- toolsname [Site](http://link.here), (documentation)[http://link.here], npm `npm install `
+> **Description:** This is description
+
+## Query
+
+- request [site](http://link.here), (documentation)[http://link.here], npm `npm install `
+> **Description:** This is description
