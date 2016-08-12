@@ -4,9 +4,9 @@
 	Personal tools I found useful when doing some node projects.
 
 ## App Generator
-- express-generator [npm](http://link.here), [docs](http://link.here), npm `npm install express-generator`
+- express [npm](https://expressjs.com/), [docs](https://expressjs.com/en/starter/installing.html), npm `npm install express`
 
-- express-generator [npm](http://link.here), [docs](http://link.here), npm `npm install express-generator -g`
+- express-generator [npm](https://expressjs.com/), [docs](https://expressjs.com/en/starter/generator.html), npm `npm install express-generator -g`
 
 
 ## Database
