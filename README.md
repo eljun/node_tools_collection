@@ -33,3 +33,4 @@
 ## Handy git commands
 - `clip < ~/.ssh/id_rsa.pub` - [docs](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) Copying existing ssh key in the PC
 - `export set PAGE_TOKEN='token'` - Setting up environment on node js the value would be `proccess.env.PAGE_TOKEN`
+- `ssh-keygen` - [docs](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) Create new SSH key for your PC
