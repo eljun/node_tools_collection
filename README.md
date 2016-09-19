@@ -26,6 +26,8 @@
 
 - **request** [site](http://link.here), [docs](http://link.here), npm `npm install `
 > **Description:** This is description
+- **request-query** [site](http://link.here), [docs](http://link.here), npm `npm install `
+> **Description:** This is description new module added
 
 
 ## Handy git commands
