@@ -34,3 +34,9 @@
 - `clip < ~/.ssh/id_rsa.pub` - [docs](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) Copying existing ssh key in the PC
 - `export set PAGE_TOKEN='token'` - Setting up environment on node js the value would be `proccess.env.PAGE_TOKEN`
 - `ssh-keygen` - [docs](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) Create new SSH key for your PC
+
+## UI / UX
+
+- `hover.css` [site](http://ianlunn.github.io/Hover/) [docs](http://ianlunn.co.uk/articles/hover-css-tutorial-introduction/) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+
+- `InlineAnchorStyles` [site](http://tympanus.net/Development/InlineAnchorStyles/) Modern styles and effects for links in a text flow
